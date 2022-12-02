@@ -1,0 +1,21 @@
+==================================
+Array size : 20000
+
+Random Array
+Select sort:0.419000 
+Insert sort:0.267000 
+Shell sort:0.004000 
+Quick sort:0.002000 
+
+Ascending Array
+Select sort:0.418000 
+Insert sort:0.000000 
+Shell sort:0.001000 
+Quick sort:0.001000 
+
+Descending Array
+Select sort:0.472000 
+Insert sort:0.535000 
+Shell sort:0.002000 
+Quick sort:0.000000 
+==================================
